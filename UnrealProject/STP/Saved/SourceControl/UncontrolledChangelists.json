@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/STP/UnrealProject/STP/Content/Level/StartMenu.umap",
+				"D:/STP/UnrealProject/STP/Content/Level/L_StartMenu.umap",
 				"F:/GAME_408/STP/Content/BP/Trucks/BP_TruckManager.uasset",
 				"D:/GAME_266/RollaBallPlus/STP/Content/BP/Packages/BP_Package.uasset",
 				"D:/GAME_266/RollaBallPlus/STP/Content/BP/Packages/BP_PSpawner.uasset",
