@@ -1,0 +1,24 @@
+[6136:20076:0918/214303.637:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6136:20076:0918/214303.779:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30064:30324:0918/214309.250:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-27171C0CD61F505AC57A001E58EED840 will be ignored
+[6136:20076:0918/214309.254:ERROR:device_event_log_impl.cc(196)] [21:43:08.927] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[29496:39932:0918/231314.738:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6136:26856:0918/231314.746:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6136:2092:0918/231315.090:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29496:39932:0918/231315.099:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29496:28468:0918/231315.158:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6136:2092:0918/231315.159:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6136:2092:0918/231315.204:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29496:39932:0918/231315.208:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29496:39932:0918/233809.803:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6136:2092:0918/233809.806:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6136:2092:0918/233809.974:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29496:39932:0918/233809.978:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29496:39932:0919/000459.540:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6136:2092:0919/000459.542:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6136:2092:0919/000459.944:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6136:2092:0919/004613.561:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29496:39932:0919/004613.568:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6136:2092:0919/004613.599:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6136:2092:0919/004613.783:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29496:28468:0919/004613.784:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.

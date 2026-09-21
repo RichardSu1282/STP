@@ -1,0 +1,4 @@
+[5260:24368:0921/111957.935:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5260:24368:0921/111958.122:ERROR:os_crypt_win.cc(100)] Failed to decrypt: 该项不适于在指定状态下使用。 (0x8009000B)
+[5260:24368:0921/111958.463:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6580:13940:0921/112010.551:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A102B651568FB251B02378AB89AD858A will be ignored
