@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/vchauh21/Downloads/GitHub/STP/UnrealProject/STP/Content/Level/Demo.umap",
+				"C:/Users/vchauh21/Downloads/GitHub/STP/UnrealProject/STP/Content/BP/Systems/BP_RespawnVolume.uasset",
 				"G:/SCAD_ITGM_Others/STP/UnrealProject/STP/Content/UI/WBP_MainMenu.uasset",
 				"G:/SCAD_ITGM_Others/STP/UnrealProject/STP/Content/Level/Demo.umap",
 				"G:/SCAD_ITGM_Others/STP/UnrealProject/STP/Content/UI/WBP_Truck.uasset",
