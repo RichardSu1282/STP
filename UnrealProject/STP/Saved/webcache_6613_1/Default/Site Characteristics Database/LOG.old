@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-2026/09/22-20:57:32.089 50c4 Reusing MANIFEST E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
-2026/09/22-20:57:32.090 50c4 Recovering log #9
-2026/09/22-20:57:32.090 50c4 Reusing old log E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/000009.log 
-=======
-2026/09/22-21:21:07.922 5c8c Log #12: 1 ops saved to Table #13 OK
-2026/09/22-21:21:07.925 5c8c Archiving G:\SCAD_ITGM_Others\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/000012.log: OK
-2026/09/22-21:21:07.925 5c8c Table #4: 2 entries OK
-2026/09/22-21:21:07.926 5c8c Table #7: 1 entries OK
-2026/09/22-21:21:07.926 5c8c Table #10: 1 entries OK
-2026/09/22-21:21:07.926 5c8c Table #13: 1 entries OK
-2026/09/22-21:21:07.927 5c8c Archiving G:\SCAD_ITGM_Others\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/09/22-21:21:07.936 5c8c **** Repaired leveldb G:\SCAD_ITGM_Others\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 4 files; 665 bytes. Some data may have been lost. ****
->>>>>>> ca45d598a47274e3538e65bf837521911fc5a6cf
+2026/09/22-23:18:04.850 66f8 Reusing MANIFEST C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+2026/09/22-23:18:04.851 322c Compacting 4@0 + 0@1 files
+2026/09/22-23:18:04.853 322c Generated table #21@0: 2 keys, 191 bytes
+2026/09/22-23:18:04.853 322c Compacted 4@0 + 0@1 files => 191 bytes
+2026/09/22-23:18:04.854 322c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/22-23:18:04.854 322c Delete type=2 #7
+2026/09/22-23:18:04.854 322c Delete type=2 #16
+2026/09/22-23:18:04.854 322c Delete type=2 #17
+2026/09/22-23:18:04.854 322c Delete type=2 #18
