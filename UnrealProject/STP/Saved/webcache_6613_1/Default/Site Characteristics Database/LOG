@@ -1,1 +1,15 @@
-2026/09/21-12:56:22.795 8ed0 Reusing MANIFEST D:\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+<<<<<<< HEAD
+2026/09/22-21:05:37.168 9138 Reusing MANIFEST E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+2026/09/22-21:05:37.170 9138 Recovering log #9
+2026/09/22-21:05:37.170 9138 Reusing old log E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/000009.log 
+=======
+2026/09/22-21:21:07.944 5c8c Reusing MANIFEST G:\SCAD_ITGM_Others\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+2026/09/22-21:21:07.945 50f0 Compacting 4@0 + 0@1 files
+2026/09/22-21:21:07.953 50f0 Generated table #16@0: 2 keys, 191 bytes
+2026/09/22-21:21:07.953 50f0 Compacted 4@0 + 0@1 files => 191 bytes
+2026/09/22-21:21:07.954 50f0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/22-21:21:07.954 50f0 Delete type=2 #4
+2026/09/22-21:21:07.954 50f0 Delete type=2 #7
+2026/09/22-21:21:07.954 50f0 Delete type=2 #10
+2026/09/22-21:21:07.954 50f0 Delete type=2 #13
+>>>>>>> ca45d598a47274e3538e65bf837521911fc5a6cf
