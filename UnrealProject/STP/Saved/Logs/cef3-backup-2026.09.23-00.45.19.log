@@ -1,0 +1,29 @@
+[10152:16808:0922/175242.155:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10152:16808:0922/175242.226:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[10152:11424:0922/175242.299:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[10152:16808:0922/175242.368:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10152:16048:0922/175247.487:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10152:16048:0922/175247.491:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10152:16048:0922/175247.492:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10152:16048:0922/175247.493:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10152:11424:0922/175248.507:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10152:11424:0922/175248.512:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15664:17328:0922/175248.896:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C3017E80F757401E987A8C935327777A will be ignored
+[10152:15656:0922/175249.347:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10152:15656:0922/175249.489:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10152:16808:0922/175318.933:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175324.011:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175354.831:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175504.930:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175509.930:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175514.987:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175520.035:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175525.035:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175530.094:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175535.102:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175540.160:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175545.195:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175550.195:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175600.440:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175605.728:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10152:16808:0922/175630.447:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

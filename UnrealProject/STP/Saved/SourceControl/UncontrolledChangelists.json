@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/SCAD_ITGM_Others/STP/UnrealProject/STP/Content/UI/WBP_MainMenu.uasset",
 				"C:/Users/chauh/OneDrive/Documents/GitHub/STP/UnrealProject/STP/Content/BP/BP_ScoreManager.uasset",
 				"C:/Users/chauh/OneDrive/Documents/GitHub/STP/UnrealProject/STP/Content/SendthatPackage/BP_ScoreManager.uasset",
 				"C:/Users/inory/Documents/GitHub/STP/UnrealProject/STP/Content/BP/Packages/BP_PSpawner.uasset",
