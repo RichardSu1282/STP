@@ -5,19 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"E:/Githubdata/STP/UnrealProject/STP/Content/Level/Demo.umap",
-				"E:/Githubdata/STP/UnrealProject/STP/Content/Meshes/SM_Truck_01.uasset",
-				"E:/Githubdata/STP/UnrealProject/STP/Content/Meshes/SMbag_01.uasset",
-				"E:/Githubdata/STP/UnrealProject/STP/Content/Meshes/SM_Bag_01.uasset",
-				"E:/Githubdata/STP/UnrealProject/STP/Content/Meshes/SM_bottle_01.uasset",
-				"E:/Githubdata/STP/UnrealProject/STP/Content/Meshes/SM_Bottle_02.uasset",
-				"E:/Githubdata/STP/UnrealProject/STP/Content/Meshes/SM_BOX_02.uasset",
-				"E:/Githubdata/STP/UnrealProject/STP/Content/Meshes/SM_dumbbell__01.uasset",
-				"E:/Githubdata/STP/UnrealProject/STP/Content/Meshes/SM_BOX_01.uasset",
-				"E:/Githubdata/STP/UnrealProject/STP/Content/Meshes/SM_BOX_03.uasset",
-				"E:/Githubdata/STP/UnrealProject/STP/Content/Meshes/tru.uasset",
-=======
 				"G:/SCAD_ITGM_Others/STP/UnrealProject/STP/Content/UI/WBP_MainMenu.uasset",
 				"C:/Users/chauh/OneDrive/Documents/GitHub/STP/UnrealProject/STP/Content/BP/BP_ScoreManager.uasset",
 				"C:/Users/chauh/OneDrive/Documents/GitHub/STP/UnrealProject/STP/Content/SendthatPackage/BP_ScoreManager.uasset",
@@ -26,7 +13,6 @@
 				"C:/Users/inory/Documents/GitHub/STP/UnrealProject/STP/Content/BP/Packages/BP_HeavyPSpawner_Child.uasset",
 				"C:/Users/inory/Documents/GitHub/STP/UnrealProject/STP/Content/BP/Player/BP_Player.uasset",
 				"C:/Users/inory/Documents/GitHub/STP/UnrealProject/STP/Content/BP/Interface/BPI_Interactable.uasset",
->>>>>>> ca45d598a47274e3538e65bf837521911fc5a6cf
 				"D:/STP/UnrealProject/STP/Content/Level/StartMenu.umap",
 				"D:/STP/UnrealProject/STP/Content/Level/L_StartMenu.umap",
 				"F:/GAME_408/STP/Content/BP/Trucks/BP_TruckManager.uasset",
