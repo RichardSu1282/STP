@@ -1,17 +1,0 @@
-[21716:22376:0922/231804.559:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21716:26360:0922/231804.722:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[21716:22376:0922/231804.792:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21716:22376:0922/231807.160:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser
-[21716:12844:0922/231807.177:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21716:12844:0922/231807.179:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21716:12844:0922/231807.180:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21716:12844:0922/231807.182:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\chauh\OneDrive\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21112:26236:0922/231808.235:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[21716:12844:0922/231808.235:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21716:12844:0922/231808.240:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21112:26236:0922/231808.337:ERROR:backend_impl.cc(989)] Critical error found -8
-[21112:26236:0922/231808.337:WARNING:storage_block-inl.h(138)] Failed data load.
-[21112:26236:0922/231808.337:WARNING:storage_block-inl.h(138)] Failed data load.
-[21112:26236:0922/231808.337:ERROR:entry_impl.cc(1029)] No file for b202002c
-[21112:26236:0922/231808.337:WARNING:storage_block-inl.h(138)] Failed data load.
-[26720:26724:0922/231808.628:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0D777B602DDA53DDBBF5399F50368C8B will be ignored

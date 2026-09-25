@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/eriyin20/Downloads/GitHub/STP/UnrealProject/STP/Content/BP/Systems/BP_UnBuildTile_Child.uasset",
+				"C:/Users/eriyin20/Downloads/GitHub/STP/UnrealProject/STP/Content/Level/Demo.umap",
 				"C:/Users/inory/Documents/GitHub/STP/UnrealProject/STP/Content/BP/Packages/BP_PSpawner.uasset",
 				"C:/Users/inory/Documents/GitHub/STP/UnrealProject/STP/Content/BP/Packages/BP_Package.uasset",
 				"C:/Users/inory/Documents/GitHub/STP/UnrealProject/STP/Content/BP/Packages/BP_HeavyPSpawner_Child.uasset",
