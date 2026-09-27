@@ -1,6 +1,144 @@
-2026/09/27-01:26:05.844 69a8 Reusing MANIFEST C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/27-01:26:05.848 69a8 Recovering log #6
-2026/09/27-01:26:05.850 69a8 Reusing old log C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/000006.log 
-2026/09/27-01:37:42.823 2658 Level-0 table #10: started
-2026/09/27-01:37:42.828 2658 Level-0 table #10: 74219 bytes OK
-2026/09/27-01:37:42.832 2658 Delete type=0 #6
+<<<<<<< HEAD
+2026/09/27-11:29:57.594 2d08 Reusing MANIFEST E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/27-11:29:57.599 2d08 Recovering log #13
+2026/09/27-11:29:57.601 2d08 Reusing old log E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/000013.log 
+2026/09/27-11:35:19.286 1b08 Level-0 table #17: started
+2026/09/27-11:35:19.297 1b08 Level-0 table #17: 82553 bytes OK
+2026/09/27-11:35:19.304 1b08 Delete type=0 #13
+2026/09/27-12:40:26.304 1b08 Level-0 table #19: started
+2026/09/27-12:40:26.322 1b08 Level-0 table #19: 75078 bytes OK
+2026/09/27-12:40:26.330 1b08 Delete type=0 #16
+2026/09/27-12:41:22.626 1b08 Level-0 table #21: started
+2026/09/27-12:41:22.640 1b08 Level-0 table #21: 75878 bytes OK
+2026/09/27-12:41:22.648 1b08 Delete type=0 #18
+2026/09/27-12:41:38.342 1b08 Level-0 table #23: started
+2026/09/27-12:41:38.349 1b08 Level-0 table #23: 74967 bytes OK
+2026/09/27-12:41:38.352 1b08 Delete type=0 #20
+2026/09/27-12:41:38.353 1b08 Compacting 4@0 + 1@1 files
+2026/09/27-12:41:38.363 1b08 Generated table #24@0: 7 keys, 28179 bytes
+2026/09/27-12:41:38.364 1b08 Compacted 4@0 + 1@1 files => 28179 bytes
+2026/09/27-12:41:38.366 1b08 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/27-12:41:38.368 1b08 Delete type=2 #14
+2026/09/27-12:41:38.368 1b08 Delete type=2 #17
+2026/09/27-12:41:38.368 1b08 Delete type=2 #19
+2026/09/27-12:41:38.369 1b08 Delete type=2 #21
+2026/09/27-12:41:38.369 1b08 Delete type=2 #23
+2026/09/27-12:41:54.020 1b08 Level-0 table #26: started
+2026/09/27-12:41:54.031 1b08 Level-0 table #26: 73154 bytes OK
+2026/09/27-12:41:54.035 1b08 Delete type=0 #22
+2026/09/27-12:42:10.017 1b08 Level-0 table #28: started
+2026/09/27-12:42:10.030 1b08 Level-0 table #28: 72502 bytes OK
+2026/09/27-12:42:10.034 1b08 Delete type=0 #25
+2026/09/27-12:42:26.029 1b08 Level-0 table #30: started
+2026/09/27-12:42:26.043 1b08 Level-0 table #30: 70154 bytes OK
+2026/09/27-12:42:26.050 1b08 Delete type=0 #27
+2026/09/27-12:42:41.705 1b08 Level-0 table #32: started
+2026/09/27-12:42:41.721 1b08 Level-0 table #32: 70554 bytes OK
+2026/09/27-12:42:41.729 1b08 Delete type=0 #29
+2026/09/27-12:42:41.730 1b08 Compacting 4@0 + 1@1 files
+2026/09/27-12:42:41.740 1b08 Generated table #33@0: 7 keys, 27283 bytes
+2026/09/27-12:42:41.740 1b08 Compacted 4@0 + 1@1 files => 27283 bytes
+2026/09/27-12:42:41.743 1b08 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/27-12:42:41.744 1b08 Delete type=2 #24
+2026/09/27-12:42:41.744 1b08 Delete type=2 #26
+2026/09/27-12:42:41.744 1b08 Delete type=2 #28
+2026/09/27-12:42:41.744 1b08 Delete type=2 #30
+2026/09/27-12:42:41.744 1b08 Delete type=2 #32
+2026/09/27-12:42:57.364 1b08 Level-0 table #35: started
+2026/09/27-12:42:57.377 1b08 Level-0 table #35: 70738 bytes OK
+2026/09/27-12:42:57.384 1b08 Delete type=0 #31
+2026/09/27-12:43:13.370 1b08 Level-0 table #37: started
+2026/09/27-12:43:13.383 1b08 Level-0 table #37: 70714 bytes OK
+2026/09/27-12:43:13.389 1b08 Delete type=0 #34
+2026/09/27-12:43:29.034 1b08 Level-0 table #39: started
+2026/09/27-12:43:29.459 1b08 Level-0 table #39: 70662 bytes OK
+2026/09/27-12:43:29.466 1b08 Delete type=0 #36
+2026/09/27-12:43:44.393 1b08 Level-0 table #41: started
+2026/09/27-12:43:44.818 1b08 Level-0 table #41: 70686 bytes OK
+2026/09/27-12:43:44.824 1b08 Delete type=0 #38
+2026/09/27-12:43:44.825 1b08 Compacting 4@0 + 1@1 files
+2026/09/27-12:43:44.834 1b08 Generated table #42@0: 7 keys, 27287 bytes
+2026/09/27-12:43:44.834 1b08 Compacted 4@0 + 1@1 files => 27287 bytes
+2026/09/27-12:43:44.841 1b08 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/27-12:43:44.842 1b08 Delete type=2 #33
+2026/09/27-12:43:44.842 1b08 Delete type=2 #35
+2026/09/27-12:43:44.842 1b08 Delete type=2 #37
+2026/09/27-12:43:44.842 1b08 Delete type=2 #39
+2026/09/27-12:43:44.842 1b08 Delete type=2 #41
+2026/09/27-12:44:00.054 1b08 Level-0 table #44: started
+2026/09/27-12:44:00.409 1b08 Level-0 table #44: 70738 bytes OK
+2026/09/27-12:44:00.415 1b08 Delete type=0 #40
+2026/09/27-12:44:16.066 1b08 Level-0 table #46: started
+2026/09/27-12:44:16.176 1b08 Level-0 table #46: 70750 bytes OK
+2026/09/27-12:44:16.183 1b08 Delete type=0 #43
+2026/09/27-12:44:31.732 1b08 Level-0 table #48: started
+2026/09/27-12:44:31.931 1b08 Level-0 table #48: 70774 bytes OK
+2026/09/27-12:44:31.936 1b08 Delete type=0 #45
+2026/09/27-12:44:47.068 1b08 Level-0 table #50: started
+2026/09/27-12:44:47.100 1b08 Level-0 table #50: 70754 bytes OK
+2026/09/27-12:44:47.103 1b08 Delete type=0 #47
+2026/09/27-12:44:47.104 1b08 Compacting 4@0 + 1@1 files
+2026/09/27-12:44:47.110 1b08 Generated table #51@0: 7 keys, 27299 bytes
+2026/09/27-12:44:47.110 1b08 Compacted 4@0 + 1@1 files => 27299 bytes
+2026/09/27-12:44:47.113 1b08 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/27-12:44:47.114 1b08 Delete type=2 #42
+2026/09/27-12:44:47.114 1b08 Delete type=2 #44
+2026/09/27-12:44:47.114 1b08 Delete type=2 #46
+2026/09/27-12:44:47.114 1b08 Delete type=2 #48
+2026/09/27-12:44:47.114 1b08 Delete type=2 #50
+2026/09/27-12:45:02.724 1b08 Level-0 table #53: started
+2026/09/27-12:45:03.149 1b08 Level-0 table #53: 70786 bytes OK
+2026/09/27-12:45:03.155 1b08 Delete type=0 #49
+2026/09/27-12:45:18.721 1b08 Level-0 table #55: started
+2026/09/27-12:45:19.146 1b08 Level-0 table #55: 70806 bytes OK
+2026/09/27-12:45:19.153 1b08 Delete type=0 #52
+2026/09/27-12:45:34.725 1b08 Level-0 table #57: started
+2026/09/27-12:45:34.737 1b08 Level-0 table #57: 70850 bytes OK
+2026/09/27-12:45:34.744 1b08 Delete type=0 #54
+2026/09/27-12:45:50.752 1b08 Level-0 table #59: started
+2026/09/27-12:45:50.768 1b08 Level-0 table #59: 70854 bytes OK
+2026/09/27-12:45:50.775 1b08 Delete type=0 #56
+2026/09/27-12:45:50.776 1b08 Compacting 4@0 + 1@1 files
+2026/09/27-12:45:50.789 1b08 Generated table #60@0: 7 keys, 27339 bytes
+2026/09/27-12:45:50.789 1b08 Compacted 4@0 + 1@1 files => 27339 bytes
+2026/09/27-12:45:50.795 1b08 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/27-12:45:50.796 1b08 Delete type=2 #51
+2026/09/27-12:45:50.796 1b08 Delete type=2 #53
+2026/09/27-12:45:50.796 1b08 Delete type=2 #55
+2026/09/27-12:45:50.796 1b08 Delete type=2 #57
+2026/09/27-12:45:50.796 1b08 Delete type=2 #59
+2026/09/27-12:46:06.739 1b08 Level-0 table #62: started
+2026/09/27-12:46:06.753 1b08 Level-0 table #62: 70830 bytes OK
+2026/09/27-12:46:06.759 1b08 Delete type=0 #58
+2026/09/27-12:46:22.406 1b08 Level-0 table #64: started
+2026/09/27-12:46:22.420 1b08 Level-0 table #64: 70742 bytes OK
+2026/09/27-12:46:22.427 1b08 Delete type=0 #61
+2026/09/27-12:46:38.407 1b08 Level-0 table #66: started
+2026/09/27-12:46:38.423 1b08 Level-0 table #66: 70706 bytes OK
+2026/09/27-12:46:38.431 1b08 Delete type=0 #63
+2026/09/27-12:46:54.406 1b08 Level-0 table #68: started
+2026/09/27-12:46:54.419 1b08 Level-0 table #68: 70662 bytes OK
+2026/09/27-12:46:54.422 1b08 Delete type=0 #65
+2026/09/27-12:46:54.422 1b08 Compacting 4@0 + 1@1 files
+2026/09/27-12:46:54.427 1b08 Generated table #69@0: 7 keys, 27267 bytes
+2026/09/27-12:46:54.428 1b08 Compacted 4@0 + 1@1 files => 27267 bytes
+2026/09/27-12:46:54.430 1b08 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/27-12:46:54.431 1b08 Delete type=2 #60
+2026/09/27-12:46:54.431 1b08 Delete type=2 #62
+2026/09/27-12:46:54.431 1b08 Delete type=2 #64
+2026/09/27-12:46:54.431 1b08 Delete type=2 #66
+2026/09/27-12:46:54.431 1b08 Delete type=2 #68
+2026/09/27-12:47:39.760 1b08 Level-0 table #71: started
+2026/09/27-12:47:39.767 1b08 Level-0 table #71: 70733 bytes OK
+2026/09/27-12:47:39.770 1b08 Delete type=0 #67
+2026/09/27-12:50:39.809 1b08 Level-0 table #73: started
+2026/09/27-12:50:39.819 1b08 Level-0 table #73: 70781 bytes OK
+2026/09/27-12:50:39.827 1b08 Delete type=0 #70
+2026/09/27-13:59:08.471 1b08 Level-0 table #75: started
+2026/09/27-13:59:08.477 1b08 Level-0 table #75: 70753 bytes OK
+2026/09/27-13:59:08.480 1b08 Delete type=0 #72
+=======
+2026/09/27-12:01:50.681 42dc Reusing MANIFEST C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/27-12:01:50.689 42dc Recovering log #13
+2026/09/27-12:01:50.691 42dc Reusing old log C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/000013.log 
+>>>>>>> c55518a2324a074263f436d2c471673fe4e7cc3e

@@ -1,13 +1,21 @@
-2026/09/27-02:48:26.935 6da8 Reusing MANIFEST C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/27-02:48:26.939 6da8 Recovering log #9
-2026/09/27-02:48:26.939 6da8 Level-0 table #12: started
-2026/09/27-02:48:26.943 6da8 Level-0 table #12: 70654 bytes OK
-2026/09/27-02:48:26.948 6da8 Delete type=0 #9
-2026/09/27-02:48:26.968 3830 Compacting 4@0 + 0@1 files
-2026/09/27-02:48:26.973 3830 Generated table #14@0: 7 keys, 26839 bytes
-2026/09/27-02:48:26.973 3830 Compacted 4@0 + 0@1 files => 26839 bytes
-2026/09/27-02:48:26.975 3830 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/09/27-02:48:26.975 3830 Delete type=2 #3
-2026/09/27-02:48:26.975 3830 Delete type=2 #7
-2026/09/27-02:48:26.975 3830 Delete type=2 #10
-2026/09/27-02:48:26.975 3830 Delete type=2 #12
+<<<<<<< HEAD
+2026/09/27-15:09:36.712 6698 Reusing MANIFEST E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/27-15:09:36.718 6698 Recovering log #74
+2026/09/27-15:09:36.720 6698 Reusing old log E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/000074.log 
+2026/09/27-15:25:53.821 3d4c Level-0 table #78: started
+2026/09/27-15:25:53.834 3d4c Level-0 table #78: 76790 bytes OK
+2026/09/27-15:25:53.842 3d4c Delete type=0 #74
+2026/09/27-15:25:53.843 3d4c Compacting 4@0 + 1@1 files
+2026/09/27-15:25:53.855 3d4c Generated table #79@0: 15 keys, 28896 bytes
+2026/09/27-15:25:53.855 3d4c Compacted 4@0 + 1@1 files => 28896 bytes
+2026/09/27-15:25:53.862 3d4c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/27-15:25:53.865 3d4c Delete type=2 #69
+2026/09/27-15:25:53.865 3d4c Delete type=2 #71
+2026/09/27-15:25:53.865 3d4c Delete type=2 #73
+2026/09/27-15:25:53.865 3d4c Delete type=2 #75
+2026/09/27-15:25:53.865 3d4c Delete type=2 #78
+=======
+2026/09/27-13:07:51.439 1828 Reusing MANIFEST C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/27-13:07:51.443 1828 Recovering log #13
+2026/09/27-13:07:51.445 1828 Reusing old log C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/000013.log 
+>>>>>>> c55518a2324a074263f436d2c471673fe4e7cc3e

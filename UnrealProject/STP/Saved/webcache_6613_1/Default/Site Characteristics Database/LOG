@@ -1,3 +1,9 @@
-2026/09/27-02:48:26.906 a29c Reusing MANIFEST C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
-2026/09/27-02:48:26.906 a29c Recovering log #27
-2026/09/27-02:48:26.906 a29c Reusing old log C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/000027.log 
+<<<<<<< HEAD
+2026/09/27-15:09:36.684 47fc Reusing MANIFEST E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+2026/09/27-15:09:36.685 47fc Recovering log #27
+2026/09/27-15:09:36.686 47fc Reusing old log E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/000027.log 
+=======
+2026/09/27-13:07:51.411 78c8 Reusing MANIFEST C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+2026/09/27-13:07:51.411 78c8 Recovering log #27
+2026/09/27-13:07:51.411 78c8 Reusing old log C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Site Characteristics Database/000027.log 
+>>>>>>> c55518a2324a074263f436d2c471673fe4e7cc3e
