@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 2026/09/26-21:50:01.244 5d90 Reusing MANIFEST G:\SCAD_ITGM_Others\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
 2026/09/26-21:50:01.248 5d90 Recovering log #6
 2026/09/26-21:50:01.249 5d90 Reusing old log G:\SCAD_ITGM_Others\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/000006.log 
+=======
+2026/09/27-02:48:26.935 6da8 Reusing MANIFEST C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/27-02:48:26.939 6da8 Recovering log #9
+2026/09/27-02:48:26.939 6da8 Level-0 table #12: started
+2026/09/27-02:48:26.943 6da8 Level-0 table #12: 70654 bytes OK
+2026/09/27-02:48:26.948 6da8 Delete type=0 #9
+2026/09/27-02:48:26.968 3830 Compacting 4@0 + 0@1 files
+2026/09/27-02:48:26.973 3830 Generated table #14@0: 7 keys, 26839 bytes
+2026/09/27-02:48:26.973 3830 Compacted 4@0 + 0@1 files => 26839 bytes
+2026/09/27-02:48:26.975 3830 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/27-02:48:26.975 3830 Delete type=2 #3
+2026/09/27-02:48:26.975 3830 Delete type=2 #7
+2026/09/27-02:48:26.975 3830 Delete type=2 #10
+2026/09/27-02:48:26.975 3830 Delete type=2 #12
+>>>>>>> 28033628a8cda5d6c0324e790bac9a0b9956ca9e
