@@ -1,16 +1,0 @@
-[30052:14340:0927/161314.886:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[30052:14340:0927/161314.939:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[30052:12660:0927/161316.567:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[30052:12660:0927/161316.577:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[30052:12660:0927/161316.587:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[30052:12660:0927/161316.594:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\inory\Documents\GitHub\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2788:26296:0927/161316.835:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2788:26296:0927/161316.835:ERROR:backend_impl.cc(989)] Critical error found -8
-[30052:12660:0927/161316.840:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[30052:12660:0927/161316.848:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2788:26296:0927/161316.891:WARNING:storage_block-inl.h(138)] Failed data load.
-[2788:26296:0927/161316.891:WARNING:storage_block-inl.h(138)] Failed data load.
-[2788:26296:0927/161316.892:ERROR:entry_impl.cc(955)] Failed to save user data
-[30052:14340:0927/161320.308:ERROR:device_event_log_impl.cc(196)] [16:13:19.974] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[32336:2472:0927/161320.638:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-42A1FE561D72877D9EE5A3A2C5F59CB4 will be ignored
-[30052:14340:0927/164500.571:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
