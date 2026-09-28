@@ -1,3 +1,6 @@
-2026/09/27-22:51:08.707 a6bc Reusing MANIFEST E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/27-22:51:08.713 a6bc Recovering log #90
-2026/09/27-22:51:08.716 a6bc Reusing old log E:\Githubdata\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/000090.log 
+2026/09/28-00:08:23.234 b434 Reusing MANIFEST G:\SCAD_ITGM_Others\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/28-00:08:23.238 b434 Recovering log #90
+2026/09/28-00:08:23.239 b434 Reusing old log G:\SCAD_ITGM_Others\STP\UnrealProject\STP\Saved\webcache_6613_1\Default\Local Storage\leveldb/000090.log 
+2026/09/28-00:47:07.969 b408 Level-0 table #94: started
+2026/09/28-00:47:07.972 b408 Level-0 table #94: 65835 bytes OK
+2026/09/28-00:47:07.973 b408 Delete type=0 #90
